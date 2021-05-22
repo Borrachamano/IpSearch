@@ -173,4 +173,6 @@ $$e$P"    $b     d$`    "$$c$F
 		os.system("clear")
 		exit()
 
-main()
+
+if __name__ == '__main__':
+	main()
